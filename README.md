@@ -1,4 +1,4 @@
-# Resume / Candidate Screening System
+# AI Resume Analyzer
 ##  Project Overview
 This project was completed as part of my internship learning journey.  
 It demonstrates an end-to-end Machine Learning workflow implemented using Python in Jupyter Notebook.
